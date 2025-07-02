@@ -1,0 +1,2918 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html, body {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #f5eed5;
+}
+
+a:visited {
+  color: #000000; 
+}
+
+.desktop {
+  background-color: #f5eed5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  padding: 0px;
+  margin: 0 auto;
+}
+
+.desktop .div {
+  background-color: #f5eed5;
+  overflow: hidden;
+  width: 100%;
+  left: 40px;
+  height: 12216px;
+  position: relative;
+  margin:0;  
+
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1443px;
+  height: 1585px;
+  top: 10631px;
+  /* left: 40px;   */
+
+}
+
+.desktop .element-pics {
+  position: absolute;
+  width: 100%;
+  height: 800px;
+  top: 785px;
+
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 400px;
+  top: 400px;
+
+}
+
+.desktop .keagan-henman {
+  position: absolute;
+  width: 719px;
+  height: 400px;
+  top: 0;
+  left: 721px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 722px;
+  height: 400px;
+  top: 0;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 400px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .sincerely-media {
+  position: absolute;
+  width: 721px;
+  height: 400px;
+  top: 0;
+  left: 719px;
+}
+
+.desktop .ending-info {
+  position: absolute;
+  width: 1440px;
+  height: 785px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .information {
+  position: absolute;
+  width: 480px;
+  height: 785px;
+  top: 0;
+  left: 960px;
+  background-color: #fbfbfd;
+}
+
+.desktop .text-container {
+  position: relative;
+  width: 123px;
+  height: 467px;
+  top: 160px;
+  left: 190px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 444px;
+  left: 39px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .paragraph-container {
+  position: absolute;
+  width: 129px;
+  height: 190px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 82px;
+  left: 37px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  top: 125px;
+  left: 3px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  position: absolute;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 167px;
+  left: 7px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .navigation {
+  position: absolute;
+  width: 480px;
+  height: 785px;
+  top: 0;
+  left: 480px;
+  background-color: #ffffff;
+}
+
+.desktop .text-container-2 {
+  position: relative;
+  width: 138px;
+  height: 472px;
+  top: 155px;
+  left: 167px;
+}
+
+.desktop .logo {
+  position: absolute;
+  width: 138px;
+  height: 37px;
+  top: 435px;
+  left: 0;
+}
+
+.desktop .container {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 4px;
+  left: 0;
+}
+
+.desktop .img-2 {
+  position: absolute;
+  width: 8px;
+  height: 17px;
+  top: 8px;
+  left: 12px;
+}
+
+.desktop .slider-container {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 4px;
+  left: 106px;
+}
+
+.desktop .img-3 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 7px;
+  left: 8px;
+}
+
+.desktop .mask-group {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 0;
+  left: 53px;
+}
+
+.desktop .paragraph-container-2 {
+  width: 111px;
+  height: 195px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .text-wrapper-6 {
+  top: 87px;
+  left: 4px;
+  position: absolute;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 130px;
+  left: 9px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+  top: 172px;
+  left: 5px;
+  position: absolute;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .contact {
+  position: absolute;
+  width: 480px;
+  height: 785px;
+  top: 0;
+  left: 0;
+  background-color: #fbfbfd;
+}
+
+.desktop .text-container-3 {
+  position: relative;
+  width: 212px;
+  height: 490px;
+  top: 160px;
+  left: 140px;
+}
+
+.desktop .design-adit-tiwari {
+  position: absolute;
+  top: 444px;
+  left: 0;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .paragraph-container-3 {
+  width: 170px;
+  height: 191px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 162px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  top: 82px;
+  left: 58px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  top: 125px;
+  left: 9px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  top: 168px;
+  left: 3px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: -0.76px;
+  line-height: normal;
+}
+
+.desktop .end-screen {
+  position: absolute;
+  width: 1441px;
+  height: 761px;
+  top: 9870px;
+  left: 1px;
+}
+
+.desktop .overlap-3 {
+  position: relative;
+  height: 761px;
+}
+
+.desktop .BG {
+  position: absolute;
+  width: 1441px;
+  height: 761px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 1440px;
+  height: 790px;
+  top: -14px;
+  left: -1px;
+}
+
+.desktop .mediamodifier {
+  position: absolute;
+  width: 732px;
+  height: 790px;
+  top: 0;
+  left: 708px;
+}
+
+.desktop .mediamodifier-2 {
+  position: absolute;
+  width: 748px;
+  height: 779px;
+  top: 6px;
+  left: 0;
+}
+
+.desktop .footer-address {
+  position: absolute;
+  width: 489px;
+  height: 28px;
+  top: 722px;
+  left: 945px;
+}
+
+.desktop .a-sector-noida {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 23.1px;
+  text-align: center;
+  letter-spacing: -0.93px;
+  line-height: normal;
+}
+
+.desktop .span {
+  letter-spacing: -0.21px;
+  margin-left: -40px;
+}
+.desktop .spanl {
+  letter-spacing: -0.21px;
+}
+
+.desktop .text-wrapper-13 {
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: -0.21px;
+}
+
+.desktop .company-logo {
+  position: absolute;
+  width: 665px;
+  height: 578px;
+  top: 86px;
+  left: 386px;
+}
+
+.desktop .additional-info {
+  position: absolute;
+  width: 1001px;
+  height: 723px;
+  top: 9042px;
+  left: 222px;
+}
+
+.desktop .overlap-4 {
+  position: relative;
+  width: 999px;
+  height: 723px;
+  background-color: #292f45;
+  border-radius: 12.68px;
+}
+
+.desktop .button {
+  position: absolute;
+  width: 313px;
+  height: 48px;
+  top: 617px;
+  left: 345px;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 147px;
+  height: 48px;
+  top: 1px;
+  left: 0;
+  background-color: var(--main-02);
+  border-radius: 57.57px;
+}
+
+.desktop .text-wrapper-14 {
+  position: absolute;
+  top: 15px;
+  left: 36px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 15.6px;
+  letter-spacing: 0.31px;
+  line-height: normal;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 147px;
+  height: 48px;
+  top: 0;
+  left: 162px;
+  background-color: var(--main-02);
+  border-radius: 57.57px;
+}
+
+.desktop .text-wrapper-15 {
+  position: absolute;
+  top: 14px;
+  left: 26px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 15.6px;
+  letter-spacing: 0.31px;
+  line-height: normal;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 834px;
+  height: 400px;
+  top: 172px;
+  left: 124px;
+}
+
+.desktop .overlap-6 {
+  position: relative;
+  width: 824px;
+  height: 400px;
+}
+
+.desktop .overlap-7 {
+  position: absolute;
+  width: 780px;
+  height: 399px;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .bulk-order-discounts {
+  position: absolute;
+  width: 779px;
+  top: 328px;
+  left: 1px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 23.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-16 {
+  font-weight: 700;
+}
+
+.desktop .text-wrapper-17 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 18.5px;
+}
+
+.desktop .payment-terms {
+  position: absolute;
+  width: 399px;
+  top: 149px;
+  left: 1px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 23.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-18 {
+  font-weight: 700;
+  font-size: 18.5px;
+}
+
+.desktop .sample-terms-sample {
+  position: absolute;
+  width: 399px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 23.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .delivery-terms {
+  position: absolute;
+  width: 391px;
+  top: 124px;
+  left: 433px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 18.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-19 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 18.5px;
+  letter-spacing: 0;
+}
+
+.desktop .text-wrapper-20 {
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 23.7px;
+}
+
+.desktop .text-wrapper-21 {
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.desktop .return-and-exchange {
+  position: absolute;
+  width: 357px;
+  top: 0;
+  left: 433px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 23.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-22 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+}
+
+.desktop .text-wrapper-23 {
+  position: absolute;
+  width: 595px;
+  top: 30px;
+  left: 202px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5eed5;
+  font-size: 58.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.hover-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+  overflow: visible;
+}
+
+.desktop .why-customize {
+  position: absolute;
+  width: 978px;
+  height: 1232px;
+  top: 7725px;
+  left: 234px;
+}
+
+.desktop .overlap-8 {
+  position: absolute;
+  width: 978px;
+  height: 929px;
+  top: 303px;
+  left: 0;
+}
+
+.desktop .row {
+  width: 976px;
+  height: 371px;
+  top: 558px;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .overlap-9 {
+  position: relative;
+  width: 978px;
+  height: 371px;
+}
+
+.desktop .heat {
+  position: absolute;
+  width: 328px;
+  height: 344px;
+  top: 0;
+  left: 651px;
+}
+
+.desktop .overlap-group-3 {
+  position: relative;
+  width: 326px;
+  height: 344px;
+}
+
+.desktop .pic {
+  position: absolute;
+  width: 326px;
+  height: 339px;
+  top: 5px;
+  left: 0;
+}
+
+.desktop .gradient {
+  position: absolute;
+  width: 326px;
+  height: 344px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(87, 87, 87, 0) 0%,
+    rgba(40, 40, 40, 1) 100%
+  );
+}
+
+.desktop .txt {
+  position: absolute;
+  width: 316px;
+  top: 275px;
+  left: 10px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1;
+  height: 45px;
+  overflow: hidden;
+  transition: height 0.4s ease, top 0.4s ease;
+}
+
+.desktop .txt .text-wrapper-16 {
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.desktop .txt .text-wrapper-24 {
+  display: block;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 18px;
+}
+
+/* Hover Effects */
+.desktop .heat:hover .txt {
+  height: 77px;
+  top: 230px;
+}
+
+.desktop .heat:hover .txt .text-wrapper-16 {
+  transform: translateY(-2px);
+}
+
+.desktop .heat:hover .txt .text-wrapper-24 {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.desktop .printed {
+  position: absolute;
+  width: 328px;
+  height: 344px;
+  top: 0;
+  left: 326.5px; /* adjust based on grid */
+}
+
+.desktop .overlap-10 {
+  position: relative;
+  width: 326px;
+  height: 344px;
+}
+
+.desktop .pic-2 {
+  position: absolute;
+  width: 326px;
+  height: 344px;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+}
+
+.desktop .gradient-2 {
+  position: absolute;
+  width: 326px;
+  height: 344px;
+  left: 0;
+  top: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(87, 87, 87, 0) 0%,
+    rgba(40, 40, 40, 1) 100%
+  );
+  z-index: 2;
+}
+
+.desktop .printed-labels-cost {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 20px;
+  color: #f5eed5;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1.2;
+  height: 45px;
+  transition: height 0.4s ease;
+  z-index: 2;
+  
+}
+
+.printed-labels-cost .text-wrapper-16 {
+  display: block;
+  transition: transform 0.4s ease;
+  
+}
+
+.printed-labels-cost .text-wrapper-24 {
+  display: block;
+  font-size: 18px;
+  line-height: 1.3;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+  margin-top: -15px;
+}
+
+.printed:hover .printed-labels-cost {
+
+  height: 77px;
+}
+
+.printed:hover .printed-labels-cost .text-wrapper-16 {
+  transform: translateY(-2px);
+}
+
+.printed:hover .printed-labels-cost .text-wrapper-24 {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.desktop .wovn {
+  position: absolute;
+  width: 328px;
+  height: 344px;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.desktop .overlap-11 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.desktop .pic-3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+
+.desktop .gradient-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(30, 30, 30, 0) 0%, rgba(40, 40, 40, 1) 100%);
+  z-index: 2;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 100%;
+  bottom: 20px;
+  left: 0;
+  text-align: center;
+  color: #f6eed5;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 23px;
+  z-index: 3;
+  overflow: hidden;
+  height: 45px;
+  transition: height 0.4s ease;
+}
+
+.desktop .p .text-wrapper-16 {
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.desktop .p .text-wrapper-24 {
+  display: block;
+  font-size: 18px;
+  line-height: 1.3;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+  margin-top: -15px;
+}
+
+.desktop .wovn:hover .p {
+  height: 77px;
+}
+
+.desktop .wovn:hover .text-wrapper-16 {
+  transform: translateY(-2px);
+}
+
+.desktop .wovn:hover .text-wrapper-24 {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.desktop .overlap-wrapper {
+  width: 978px;
+  height: 348px;
+  top: 215px;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .overlap-12 {
+  position: relative;
+  width: 980px;
+  height: 348px;
+}
+
+.desktop .embroidary {
+  position: absolute;
+  width: 328px;
+  height: 345px;
+  top: 5px;
+  left: 650px;
+  overflow: hidden;
+  z-index: 4;
+}
+
+.desktop .overlap-group-4 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 0 20px 40px;
+  background: none;
+}
+
+.desktop .pic-4 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.desktop .gradient-4 {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent);
+  z-index: 1;
+}
+
+.desktop .txt-2 {
+  position: relative;
+  text-align: center;
+  color: #f5eed5;
+  font-family: 'Inter', sans-serif;
+  
+  height: 60px;
+  overflow: hidden;
+  transition: height 0.4s ease;
+  z-index: 2;
+}
+
+.desktop .txt-2 .text-wrapper-16 {
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  display: block;
+  transition: transform 0.4s ease;
+  transform: translateY(35px);
+}
+
+.desktop .txt-2 .text-wrapper-24 {
+  font-size: 16px;
+  line-height: 1.4;
+  margin-top: 8px;
+  display: block;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+}
+
+/* Hover */
+.embroidary:hover .txt-2 {
+  height: 90px; /* Enough for 3 lines */
+}
+
+.embroidary:hover .txt-2 .text-wrapper-16 {
+  transform: translateY(15px);
+}
+
+.embroidary:hover .txt-2 .text-wrapper-24 {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.sublimation {
+  position: absolute;
+  width: 328px;
+  height: 339px;
+  top: 9px;
+  left: 328px;
+  overflow: hidden;
+  z-index: 4;
+}
+
+.sublimation .overlap-13 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-image: url(https://c.animaapp.com/VFQnVRMH/img/pic-4@2x.png);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 20px 40px;
+  box-sizing: border-box;
+}
+
+.sublimation .gradient-4 {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent);
+  z-index: 1;
+}
+
+.sublimation .txt-3 {
+  text-align: center;
+  color: #f5eed5;
+  font-family: "SF Pro Display-Regular",Helvetica;
+  
+  position: relative;
+  height: 80px; /* Matches DTF */
+  overflow: hidden;
+  transition: height 0.4s ease;
+  z-index: 2;
+}
+
+.sublimation .txt-3 .text-wrapper-16 {
+  font-size: 23px;
+  font-weight: normal;
+  margin-bottom: 12px;
+  display: block;
+  transition: transform 0.4s ease;
+  font-weight: 400;
+  transform: translateY(30px); /* Matches DTF start */
+}
+
+.sublimation .txt-3 .text-wrapper-24 {
+  font-size: 15.5px;
+  line-height: 1.5;
+  margin-top: 12px; /* Adds space between heading and paragraph */
+  opacity: 0;
+  display: block;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+}
+
+/* Hover Effects */
+.sublimation:hover .txt-3 {
+  height: 150px; /* Allows both lines to show without cut-off */
+}
+
+.sublimation:hover .txt-3 .text-wrapper-16 {
+  transform: translateY(12px);
+}
+
+.sublimation:hover .txt-3 .text-wrapper-24 {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+
+.desktop .overlap-13 {
+  position: relative;
+  width: 325px;
+  height: 348px;
+}
+
+.desktop .pic-5 {
+  width: 325px;
+  height: 341px;
+  top: 7px;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .gradient-4 {
+  width: 325px;
+  height: 348px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(87, 87, 87, 0) 0%,
+    rgba(40, 40, 40, 1) 100%
+  );
+  position: absolute;
+  top: 0;
+}
+
+.desktop .txt-3 {
+  width: 253px;
+  top: 245px;
+  left: 52px;
+  color: #f5eed5;
+  position: absolute;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.desktop .DTF {
+  position: absolute;
+  width: 328px;
+  height: 339px;
+  top: 9px;
+  left: 0;
+  overflow: visible;
+  z-index: 4;
+}
+
+.desktop .txt-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-image: url(https://c.animaapp.com/VFQnVRMH/img/pic-5@2x.png);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 20px 40px; /* Push text lower */
+}
+
+.dtf-text {
+  text-align: center;
+  color: #f5eed5;
+  font-family: 'Inter', sans-serif;
+  position: relative;
+  height: 25px;
+  overflow: hidden;
+  transition: all 0.4s ease;
+}
+
+.dtf-text .heading {
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 6px;
+  transition: transform 0.4s ease;
+  transform: translateY(35px); /* Starts lower in gold */
+}
+
+.dtf-text .more-text {
+  font-size: 16px;
+  line-height: 1.4;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+}
+
+/* Hover Effects */
+.DTF:hover .dtf-text {
+  height: 70px;
+}
+
+.DTF:hover .dtf-text .heading {
+  transform: translateY(15px); /* Slight lift, still inside purple */
+}
+
+.DTF:hover .dtf-text .more-text {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.desktop .text-wrapper-26 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 18px;
+}
+
+.desktop .overlap-group-wrapper {
+  width: 978px;
+  height: 224px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .overlap-14 {
+  position: relative;
+  width: 980px;
+  height: 224px;
+}
+
+.desktop .blended {
+  position: absolute;
+  width: 329px;
+  height: 224px;
+  top: 0;
+  left: 651px;
+  z-index: 5;
+}
+
+.desktop .overlap-group-5 {
+  position: relative;
+  width: 327px;
+  height: 224px;
+}
+
+.desktop .pic-6 {
+  width: 325px;
+  height: 224px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .blended {
+  position: absolute;
+  width: 326px;
+  height: 224px;
+  top: 0;
+  left: 652px;
+  background-image: url(https://c.animaapp.com/VFQnVRMH/img/pic-6@2x.png);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 20px;
+}
+
+.blended-text-wrapper {
+  text-align: center;
+  color: #f5eed5;
+  transition: all 0.4s ease;
+  position: relative;
+  height: 90px;
+  overflow: hidden;
+  font-family: 'Inter', sans-serif;
+}
+
+.blended-text-wrapper .heading {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0;
+  transition: transform 0.4s ease;
+}
+
+.blended-text-wrapper .more-text {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+/* Hover Animation */
+.blended:hover .blended-text-wrapper {
+  height: 120px;
+}
+
+.blended:hover .blended-text-wrapper .heading {
+  transform: translateY(-2px);
+}
+
+.blended:hover .blended-text-wrapper .more-text {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.desktop .polyester {
+  position: absolute;
+  width: 326px;
+  height: 224px;
+  top: 0;
+  left: 326px;
+  background-image: url(https://c.animaapp.com/VFQnVRMH/img/pic-7@2x.png);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 20px;
+  z-index: 5;
+}
+
+.polyster-text-wrapper {
+  text-align: center;
+  color: #f5eed5;
+  transition: all 0.4s ease;
+  position: relative;
+  height: 90px;
+  overflow: hidden;
+  font-family: 'Inter', sans-serif;
+}
+
+.polyster-text-wrapper .heading {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0;
+  transition: transform 0.4s ease;
+}
+
+.polyster-text-wrapper .more-text {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+/* Hover Animation */
+.polyester:hover .polyster-text-wrapper {
+  height: 120px;
+}
+
+.polyester:hover .polyster-text-wrapper .heading {
+  transform: translateY(-2px); /* Just enough shift to show the underlying text */
+}
+
+.polyester:hover .polyster-text-wrapper .more-text {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.desktop .cotton {
+  position: absolute;
+  width: 328px;
+  height: 224px;
+  top: 0;
+  left: 0;
+  z-index: 5;
+}
+
+.desktop .overlap-15 {
+  position: relative;
+  width: 326px;
+  height: 224px;
+  background-image: url(https://c.animaapp.com/VFQnVRMH/img/cotton-1@2x.png); /* Replace with correct path */
+  background-size: cover;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 20px;
+}
+
+.cotton-text-wrapper {
+  text-align: center;
+  color: #f5eed5;
+  transition: all 0.4s ease;
+  position: relative;
+  height: 90px;
+  overflow: hidden;
+  font-family: 'Inter', sans-serif;
+  
+}
+
+.cotton-text-wrapper .heading {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 0;
+  transition: transform 0.4s ease;
+}
+
+.cotton-text-wrapper .more-text {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.4s ease;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.overlap-15:hover .cotton-text-wrapper {
+  height: 120px;
+}
+
+.overlap-15:hover .cotton-text-wrapper .heading {
+  transform: translateY(-2px);
+}
+
+.overlap-15:hover .cotton-text-wrapper .more-text {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 326px;
+  height: 224px;
+  top: 0;
+  left: 0;
+  background-color: #1a1a1a33;
+}
+
+.desktop .cotton-txt {
+  position: absolute;
+  width: 316px;
+  top: 68px;
+  left: 10px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f6eed5;
+  font-size: 23px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.desktop .header-txt {
+  position: absolute;
+  width: 854px;
+  height: 257px;
+  top: 0;
+  left: 77px;
+}
+
+.desktop .overlap-16 {
+  position: relative;
+  width: 850px;
+  height: 257px;
+}
+
+.desktop .text-wrapper-27 {
+  position: absolute;
+  width: 277px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(41, 47, 69, 1) 34%,
+    rgba(77, 92, 148, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-28 {
+  position: absolute;
+  width: 845px;
+  top: 114px;
+  left: 5px;
+  background: linear-gradient(
+    180deg,
+    rgba(41, 47, 69, 1) 15%,
+    rgba(69, 85, 143, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-17 {
+  position: absolute;
+  width: 1002px;
+  height: 4010px;
+  top: 3640px;
+  left: 230px;
+}
+
+.desktop .in-control {
+  position: absolute;
+  width: 982px;
+  height: 708px;
+  top: 3302px;
+  left: 0;
+}
+
+.desktop .overlap-18 {
+  width: 100%;
+  max-width: 980px;
+  height: 700px;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.flex-slider {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  transition: all 0.4s ease;
+}
+
+.flex-slider .slide {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+  transition: flex 0.4s ease;
+}
+
+.flex-slider .slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.flex-slider .slide .text {
+  position: absolute;
+  bottom: 10%;
+  left: 5%;
+  color: #f5eed5;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.6);
+  max-width: 90%;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+ 
+
+  
+}
+
+.flex-slider .slide .text h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.flex-slider .slide .text p {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+/* HOVER EFFECT */
+.flex-slider:hover .slide {
+  flex: 1;
+}
+
+.flex-slider .slide:hover {
+  flex: 2.2;
+}
+
+.flex-slider .slide:hover img {
+  transform: scale(1.05);
+}
+
+
+.desktop .element-txts {
+  position: absolute;
+  width: 889px;
+  height: 214px;
+  top: 450px;
+  left: 49px;
+}
+
+.desktop .size-charts-we {
+  position: absolute;
+  width: 242px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 33.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.desktop .text-wrapper-29 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 24.3px;
+}
+
+.desktop .patterns-we {
+  position: absolute;
+  width: 224px;
+  top: 0;
+  left: 341px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 33.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.desktop .colours-our-client {
+  position: absolute;
+  width: 228px;
+  top: 0;
+  left: 655px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #f5eed5;
+  font-size: 33.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.desktop .text-wrapper-30 {
+  position: absolute;
+  width: 534px;
+  top: 629px;
+  left: 223px;
+  text-shadow: -2px 2px 4px #00000040;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 65.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .product-ranges {
+  position: absolute;
+  width: 998px;
+  height: 3333px;
+  top: 0;
+  left: 4px;
+}
+
+.desktop .overlap-19 {
+  position: absolute;
+  width: 1026px;
+  height: 3179px;
+  top: 153px;
+  left: -26px;
+}
+
+.desktop .polo-txt {
+  position: absolute;
+  width: 340px;
+  height: 458px;
+  top: 2721px;
+  left: 556px;
+}
+
+.desktop .overlap-group-6 {
+   
+  gap: 20px; /* space between nav items */
+  
+  align-items: center;
+   display: block;
+ white-space: normal;
+}
+
+.desktop .school-uniforms {
+   position: relative;
+  z-index: 2;
+  user-select: text;
+ pointer-events: auto;
+  width: 338px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #2b3729;
+  font-size: 24.6px;
+  letter-spacing: 0;
+  line-height: 0.9;
+  
+}
+
+.desktop .text-wrapper-31 {
+  font-weight: 700;
+  font-size: 17.9px;
+}
+
+.desktop .text-wrapper-32 {
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-size: 17.9px;
+}
+
+.desktop .enquire-more {
+  width: 134px;
+  position: absolute;
+  top: 283px;
+  left: 0;
+  color: var(--main-02);
+  font-size: 17.9px;
+  letter-spacing: 0.36px;
+  white-space: nowrap;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  line-height: normal;
+  z-index: 5;            
+  pointer-events: auto;   
+  cursor: pointer;        
+}
+
+.desktop .overlap-20 {
+  position: absolute;
+  width: 1015px;
+  height: 3079px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .polo {
+  position: absolute;
+  width: 545px;
+  height: 395px;
+  top: 2684px;
+  left: 0;
+ transition: transform 0.5s; 
+ z-index: 1;
+}
+.polo:hover{
+  transform: scale(1.05);
+  z-index:10;
+}
+
+.desktop .tactical-txt {
+  position: absolute;
+  width: 440px;
+  height: 458px;
+  top: 2349px;
+  left: 40px;
+}
+
+.desktop .overlap-21 {
+  position: relative;
+  width: 436px;
+  height: 458px;
+}
+
+.desktop .tactical-garments {
+  position: absolute;
+  width: 436px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #2b3729;
+  font-size: 24.6px;
+  letter-spacing: 0;
+  line-height: 0.95;
+}
+
+.desktop .enquire-more-2 {
+  width: 128px;
+  top: 306px;
+  left: 0;
+  font-size: 17.9px;
+  letter-spacing: 0.36px;
+  position: absolute;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--main-02);
+  line-height: normal;
+}
+
+.desktop .tactical {
+  position: absolute;
+  width: 562px;
+  height: 430px;
+  top: 2287px;
+  left: 453px;
+  object-fit: cover;
+  transition: transform 0.5s;
+}
+.tactical:hover{
+  transform: scale(1.1);
+  z-index:5;
+}
+
+
+
+.desktop .tracksuit {
+  position: absolute;
+  width: 560px;
+  height: 706px;
+  top: 1627px;
+  left: 2px;
+  transition: transform 0.5s;
+}
+.tracksuit:hover{
+  transform: scale(1.05);
+  z-index:10;
+}
+
+.desktop .cargo-txt {
+  position: absolute;
+  width: 390px;
+  height: 449px;
+  top: 1163px;
+  left: 39px;
+  
+}
+
+
+
+.desktop .lowers-waist-elastic {
+  position: absolute;
+  width: 386px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #2b3729;
+  font-size: 24.5px;
+  letter-spacing: 0;
+  line-height:0.9;
+}
+
+.desktop .enquire-more-3 {
+  width: 127px;
+  top: 428px;
+  left: 1px;
+  font-size: 17.9px;
+  letter-spacing: 0.36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--main-02);
+  line-height: normal;
+}
+
+.desktop .caargo {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  top: 1102px;
+  left: 410px;
+  object-fit: cover;
+  transition: transform 0.5s;
+}
+.caargo:hover{
+  transform: scale(1.05);
+  z-index: 10;
+}
+
+.desktop .jacket {
+  position: absolute;
+  width: 534px;
+  height: 630px;
+  top: 528px;
+  left: 2px;
+  object-fit: cover;
+  transition: transform 0.5s;
+}
+.jacket:hover{
+  transform: scale(1.06);
+  z-index: 10;
+}
+
+.desktop .tshirt-txt {
+  position: absolute;
+  width: 440px;
+  height: 494px;
+  top: 22px;
+  left: 40px;
+}
+
+.desktop .t-shirts-neck {
+  position: absolute;
+  width: 436px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #292f45;
+  font-size: 24.5px;
+  letter-spacing: 0;
+  line-height: 0.95;
+}
+
+.desktop .enquire-more-4 {
+  width: 135px;
+  top: 473px;
+  left: 0;
+  font-size: 17.9px;
+  letter-spacing: 0.36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--main-02);
+  line-height: normal;
+}
+
+.desktop .tshirt {
+  position: absolute;
+  width: 477px;
+  height: 586px;
+  top: 0;
+  left: 439px;
+  object-fit: cover;
+  transition: transform 0.5s;
+}
+.tshirt:hover{
+  transform :scale(1.1);
+  z-index: 10;
+}
+
+
+.desktop .tracksuit-txt {
+  position: absolute;
+  width: 395px;
+  height: 502px;
+  top: 1730px;
+  left: 588px;
+}
+
+.desktop .enquire-more-5 {
+  width: 130px;
+  top: 481px;
+  left: 0;
+  font-size: 17.9px;
+  letter-spacing: 0.36px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--main-02);
+  line-height: normal;
+}
+
+.desktop .jerseys-neck-round-v {
+  position: absolute;
+  width: 391px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #2b3729;
+  font-size: 24.5px;
+  letter-spacing: 0;
+  line-height: 0.95;
+}
+
+
+.desktop .jacket-txt {
+  position: absolute;
+  width: 451px;
+  height: 477px;
+  top: 613px;
+  left: 576px;
+}
+
+.desktop .enquire-more-6 {
+  width: 151px;
+  top: 454px;
+  left: 0;
+  font-size: 20.3px;
+  letter-spacing: 0.41px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--main-02);
+  line-height: normal;
+}
+
+.desktop .hoodies-style {
+  position: absolute;
+  width: 447px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 400;
+  color: #292f45;
+  font-size: 24.5px;
+  letter-spacing: 0;
+  line-height: 1;
+}
+
+.desktop .product-txt {
+  width: 863px;
+  top: 0;
+  left: 2px;
+  background: linear-gradient(
+    180deg,
+    rgba(41, 47, 69, 1) 29%,
+    rgba(102, 116, 171, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 113.3px;
+  letter-spacing: 0;
+  white-space: nowrap;
+  position: absolute;
+  line-height:normal;
+}
+
+.desktop .any-every {
+  position: absolute;
+  width: 999px;
+  height: 981px;
+  top: 2621px;
+  left: 224px;
+}
+
+.desktop .overlap-22 {
+  position: relative;
+  width: 1030px;
+  height: 1014px;
+  top: -6px;
+  left: -26px;
+}
+
+.desktop .overlap-23 {
+  position: absolute;
+  width: 1030px;
+  height: 1014px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .fabric-closeup {
+  position: absolute;
+  width: 529px;
+  height: 513px;
+  top: 0;
+  left: 501px;
+  transition: transform 0.5s;
+}
+.fabric-closeup:hover{
+  transform: scale(1.1);
+
+  z-index: 10;
+}
+
+.desktop .tshirt-front {
+  position: absolute;
+  width: 534px;
+  height: 534px;
+  top: 480px;
+  left: 0;
+  object-fit: cover;
+  transition: transform 0.5s;
+  
+  
+}
+.tshirt-front:hover{
+  transform: scale(1.1);
+  z-index: 10;
+
+}
+
+.desktop .tshirt-back {
+  position: absolute;
+  width: 528px;
+  height: 534px;
+  top: 480px;
+  left: 501px;
+  transition: transform 0.5s;
+}
+.tshirt-back:hover{
+  transform: scale(1.1);
+  
+  z-index: 10;
+}
+
+.desktop .title-txt {
+  position: absolute;
+  width: 501px;
+  height: 194px;
+  top: 84px;
+  left: 37px;
+  
+}
+
+.desktop .overlap-24 {
+  position: relative;
+  width: 495px;
+  height: 194px;
+}
+
+.desktop .overlap-25 {
+  position: absolute;
+  width: 468px;
+  height: 97px;
+  top: 97px;
+  left: 0;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 49px;
+  height: 32px;
+  top: 15px;
+  left: 419px;
+}
+
+.desktop .div-2 {
+  position: absolute;
+  width: 431px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(41, 47, 69, 1) 0%,
+    rgba(87, 104, 167, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 33.6px;
+  letter-spacing: 0;
+  line-height: 33.7px;
+}
+
+.desktop .text-wrapper-33 {
+  color: #000000;
+}
+
+.desktop .text-wrapper-34 {
+  color: #000000;
+  font-size: 67.2px;
+  line-height: 67.4px;
+}
+
+.desktop .text-wrapper-35 {
+  position: absolute;
+  width: 37px;
+  top: 75px;
+  left: 458px;
+  background: linear-gradient(
+    180deg,
+    rgba(41, 47, 69, 1) 0%,
+    rgba(87, 104, 167, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 33.6px;
+  letter-spacing: 0;
+  line-height: 33.7px;
+  white-space: nowrap;
+}
+
+.desktop .overlap-group-7 {
+  position: absolute;
+  width: 462px;
+  height: 97px;
+  top: 0;
+  left: 5px;
+}
+
+.desktop .ellipse-2 {
+  position: absolute;
+  width: 49px;
+  height: 32px;
+  top: 40px;
+  left: 413px;
+}
+
+.desktop .header-txt-2 {
+  position: absolute;
+  width: 457px;
+  top: 330px;
+  left: 36px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #2b3729;
+  font-size: 17.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* Wrapper that handles the absolute position of the card */
+.hover-wrapper {
+  position: absolute;
+  width: 1000px;
+  height: 268px;
+  top: 2259px;
+  left: 234px;
+  overflow: hidden;
+  background: linear-gradient(160deg, #292F45 50%, #5768a7 ); 
+  border-radius: 15px;
+  transition: box-shadow 0.3s ease;
+}
+
+.hover-wrapper:hover {
+  box-shadow: 0 0 15px rgba(0, 183, 255, 0.4), 0 0 30px rgba(0, 183, 255, 0.3), 0 0 60px rgba(0, 183, 255, 0.2);
+}
+
+/* The actual card, now positioned relative inside the wrapper */
+.contact-cards {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #292f45;
+  border-radius: 12.39px;
+  z-index: 1;
+}
+
+
+.desktop .durgesh-contact {
+  position: absolute;
+  width: 264px;
+  height: 151px;
+  top: 62px;
+  left: 463px;
+}
+
+.desktop .contact-button {
+  position: absolute;
+  width: 137px;
+  height: 37px;
+  top: 170px;
+  left: 460px;
+}
+
+.desktop .overlap-group-8 {
+  position: relative;
+  width: 135px;
+  height: 37px;
+  border: 1.11px solid;
+  border-color: #f5eed5;
+}
+
+.desktop .text-wrapper-36 {
+  position: absolute;
+  width: 54px;
+  top: 8px;
+  left: 39px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5eed5;
+  font-size: 15.6px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-37 {
+  position: absolute;
+  top: 90px;
+  left: 460px;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  color: #f5eed5;
+
+}
+
+.desktop .text-wrapper-38 {
+  position: absolute;
+  width: 248px;
+  top: 60px;
+  left: 460px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  color: #f5eed5;
+  font-size: 27.8px;
+}
+
+.desktop .links {
+  position: absolute;
+  width: 83px;
+  height: 32px;
+  top: 120px;
+  left: 450px;
+}
+
+.desktop .facebook {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .linkedin {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 51px;
+}
+
+.desktop .durgesh-sir-photo {
+  position: absolute;
+  width: 200px;
+  height: 201px;
+  top: 34px;
+  left: 231px;
+}
+
+.desktop .overlap-26 {
+  position: relative;
+  height: 201px;
+}
+
+.desktop .ellipse-3 {
+  position: absolute;
+  width: 200px;
+  height: 195px;
+  top: 6px;
+  left: 0;
+  background-color: #54bfc5;
+  border-radius: 100px / 97.5px;
+  border: 3px solid;
+  border-color: #414d78;
+  
+}
+
+
+.desktop .mask-group-2 {
+  position: absolute;
+  width: 175px;
+  height: 198px;
+  top: 0;
+  left: 17px;
+  
+}
+
+.desktop .mask-group-3 {
+  position: absolute;
+  width: 194px;
+  height: 194px;
+  top: 4px;
+  left: 3px;
+  z-index: 40;
+}
+.mask-container {
+  position: absolute; 
+  transition: transform 0.5s;
+  z-index: 40;
+}
+
+.mask-container:hover {
+  transform: scale(1.1);
+}
+
+
+.desktop .overlap-27 {
+  position: absolute;
+  width: 1199px;
+  height: 548px;
+  top: 1639px;
+  left: 258px;
+}
+
+.desktop .about {
+  width: 1199px;
+  height: 548px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .text-wrapper-39 {
+  width: 369px;
+  left: 0;
+  background: linear-gradient(
+    179deg,
+    rgba(41, 47, 69, 1) 0%,
+    rgba(102, 116, 171, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 774px;
+  height: 493px;
+  top: 55px;
+  left: 423px;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 778px;
+  height: 397px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-40 {
+  position: absolute;
+  width: 774px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(41, 47, 69, 1) 0%,
+    rgba(74, 90, 146, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 61.7px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .established-in {
+  position: absolute;
+  width: 501px;
+  top: 98px;
+  left: 1px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #2b3729;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group-4 {
+  position: absolute;
+  width: 167px;
+  height: 55px;
+  top: 438px;
+  left: 1px;
+}
+
+.desktop .overlap-group-9 {
+  position: relative;
+  width: 165px;
+  height: 55px;
+  border: 2px solid;
+  border-color: #292f45;
+}
+
+.desktop .text-wrapper-41 {
+  position: absolute;
+  top: 16px;
+  left: 43px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .vector-2 {
+  position: absolute;
+  width: 51px;
+  height: 21px;
+  top: 77px;
+  left: 355px;
+}
+
+.desktop .element-liner {
+  position: absolute;
+  width: 805px;
+  height: 373px;
+  top: 1120px;
+  left: 332px;
+}
+
+.desktop .overlap-28 {
+  position: relative;
+  width: 803px;
+  height: 373px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 751px;
+  height: 58px;
+  top: 128px;
+  left: 12px;
+  background-color: #292f45;
+}
+
+.desktop .every-piece-we {
+  position: absolute;
+  width: 803px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 62px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 62.1px;
+}
+
+.desktop .text-wrapper-42 {
+  color: #848484;
+}
+
+.desktop .text-wrapper-43 {
+  color: #292f45;
+}
+
+.desktop .text-wrapper-44 {
+  color: #ffffff;
+}
+
+.desktop .overlap-29 {
+  position: absolute;
+  width: 1444px;
+  height: 900px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .opening-page {
+  width: 100%;
+  height: 900px;
+  top: 0;
+  left: 0;
+  background-image: url(https://c.animaapp.com/VFQnVRMH/img/mediamodifier-kjxgtoy1wlq-unsplash.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-5 {
+  position: relative;
+  width: 1074px;
+  height: 309px;
+  top: 347px;
+  left: 194px;
+}
+
+.desktop .read-more {
+  position: absolute;
+  width: 167px;
+  height: 55px;
+  top: 254px;
+  left: 444px;
+}
+
+.desktop .overlap-group-10 {
+  position: relative;
+  width: 165px;
+  height: 55px;
+  border-radius: 4px;
+  background: rgb(32, 43, 83) 100%;
+}
+
+.desktop .text-wrapper-45 {
+  position: absolute;
+  top: 18px;
+  left: 45px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .name {
+  position: absolute;
+  width: 1076px;
+  height: 233px;
+  top: 0;
+  left: -2px;
+}
+
+.desktop .nav-bar {
+    position: fixed;   /* 🔄 changed from absolute */
+  top: 0;
+  left: 0%;
+  width: 100%;       /* make it span full width */
+  height: 60px;
+  z-index: 9999;     /* ensures it stays above all content */
+  background: transparent; 
+  backdrop-filter: blur(10px);
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 100%;
+  height: 6px;
+  top: 59px;
+  left: 0;
+  background-color: #2F3F79;
+}
+
+.desktop .overlap-30 {
+  position: absolute;
+  width: 100%;
+  background-color: #fff9f9ae;
+  backdrop-filter: blur(8.5px) brightness(100%);
+  -webkit-backdrop-filter: blur(8.5px) brightness(100%);
+}
+
+.desktop .page-shifts {
+  position: absolute;
+  width: 551px;
+  height: 38px;
+  top: 10px;
+}
+
+.desktop .group-6 {
+  position: absolute;
+  width: 390px;
+  height: 21px;
+  top: 9px;
+  left: 950px;
+}
+
+.desktop .text-wrapper-46 {
+  position: absolute;
+  width: 47px;
+  top: 0;
+  left: 0;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  color: #292f45;
+  font-size: 17.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-47 {
+  width: 69px;
+  left: 78px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17.4px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.desktop .text-wrapper-48 {
+  position: absolute;
+  width: 66px;
+  top: 0;
+  left: 179px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-49 {
+  position: absolute;
+  width: 106px;
+  top: 0;
+  left: 276px;
+  font-family: "SF Pro Display-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 17.4px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group-wrapper {
+  position: absolute;
+  width: 139px;
+  height: 38px;
+  top: 0;
+  left: 412px;
+  background-color: var(--main-02);
+  border-radius: 20px;
+}
+
+.desktop .group-7 {
+  position: relative;
+  width: 124px;
+  height: 21px;
+  top: 9px;
+  left: 12px;
+}
+
+.desktop .blue-box {
+  position: relative;
+  width: 130px;
+  height: 30px;
+  left: 1350px;
+  top: 6px;
+  display: inline-flex;
+  align-items: center;
+  background-color: #2d3c7a;
+  border-radius: 20px;
+}
+
+.desktop .view {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 4px;
+  left: 105px;
+}
+
+.desktop .text-wrapper-50 {
+  width: 122px;
+  top: 4px;
+  color: #ffffff;
+  font-size: 16.8px;
+  letter-spacing: 0.34px;
+  position: absolute;
+  left: 10px;
+  font-family: "SF Pro Display-Medium", Helvetica;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.desktop .company-logo-2 {
+  position: absolute;
+  width: 80px;
+  height: 54px;
+  top: 0;
+  left: 23px;
+  background-image: url(https://c.animaapp.com/VFQnVRMH/img/image-1@2x.png);
+  background-size: 100% 100%;
+}
+
+.desktop .panchakshar {
+  position: absolute;
+  top: 14px;
+  left: 111px;
+  background: linear-gradient(
+    180deg,
+    rgba(48, 55, 94, 1) 0%,
+    rgba(71, 82, 152, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "Unison Pro-BoldRound", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 17.7px;
+  text-align: center;
+  letter-spacing: 0.35px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-51 {
+  position: absolute;
+  width: 137px;
+  top: 34px;
+  left: 106px;
+  background: linear-gradient(
+    0deg,
+    rgba(61, 177, 16, 1) 25%,
+    rgba(45, 128, 13, 1) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-family: "Unison Pro-BoldRound", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 11.7px;
+  text-align: center;
+  letter-spacing: 0.23px;
+  line-height: normal;
+}
+.nav-link {
+  position: relative;
+  display: inline-block;
+  padding: 4px 10px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+  color: var(--main-01); /* original color */
+  transition: color 0.3s ease;
+  z-index: 1; /* ensure text is above the ::before background */
+}
+.nav-link a {
+  color: var(--main-01);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+
+
+.nav-link::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: var(--main-02); /* light blue highlight */
+  border-radius: 6px;
+  opacity: 0%;
+  transform: scaleX(0.8);
+  transition: all 0.3s ease;
+  z-index: -1;
+  top: -5px;
+  bottom: -5px;
+
+}
+
+.nav-link:hover::before {
+  opacity: 1;
+  transform: scaleX(1);
+
+}
+
+.nav-link:hover a{
+  color: white !important;
+}
+.linkedin-link {
+  color: #0077b5; /* LinkedIn blue */
+  text-decoration: none;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.linkedin-link i {
+  margin-right: 6px;
+}
+.linkedin-link:visited {
+  color: #0077b5; /* Same as the normal LinkedIn blue */
+}
+.developer-line {
+  white-space: nowrap;
+}
